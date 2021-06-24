@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dennis Dunn.
+- 👀 I’m interested in high-performance computing.
+- 🌱 I’m currently learning OpenCV.
+- 💞️ I’m looking to collaborate on ...
+- 📫 master1hd@gmail.com
